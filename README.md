@@ -56,7 +56,7 @@ After evaluating the best version combination of parameters and datasets, I dete
 
 Here are the results of the comparison:
 
-![ROCcompare](Images/ROC_compare.jpg "ROC Compare")
+![ROC_compare](Images/ROC_compare.jpg "ROC Compare")
 
 
 
